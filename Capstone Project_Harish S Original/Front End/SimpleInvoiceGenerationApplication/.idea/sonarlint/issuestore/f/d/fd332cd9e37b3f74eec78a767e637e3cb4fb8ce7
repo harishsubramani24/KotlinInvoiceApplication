@@ -1,0 +1,13 @@
+
+|kotlin:S1172>"2Use "_" instead of these unused lambda parameters.(ÓÂ×¡ûÿÿÿÿ8Åç³±ù1J$e3cfd06c-1377-43e5-8a68-d2cc695c8f84
+}kotlin:S1172B"8Use "_" instead of this unused lambda parameter "which".(á¡Íœ8Æç³±ù1J$b3492676-5ead-4414-b023-9784c20cd775
+okotlin:S6508L"*Replace this usage of Void type with Unit.(ˆö½ç8Ìç³±ù1J$f4c26b16-04ba-428e-82da-95a5aa1e9377
+tkotlin:S6508M"*Replace this usage of Void type with Unit.(´‹¦”ıÿÿÿÿ8Ìç³±ù1J$ada364be-e372-4119-b651-0ff8663f2616
+tkotlin:S6508M"*Replace this usage of Void type with Unit.(´‹¦”ıÿÿÿÿ8Íç³±ù1J$9d5b9065-c5c8-4f97-be0a-f70b982bee6e
+tkotlin:S6508V"*Replace this usage of Void type with Unit.(ºÔÂşÿÿÿÿ8Íç³±ù1J$dff8e4d6-3c55-4ae6-b469-5a602f8d206a
+Zkotlin:S6619'";Remove this useless elvis operation ?:, it always succeeds.(†Ì”Ï8ééòµù1
+_kotlin:S6619(";Remove this useless elvis operation ?:, it always succeeds.(œ±Š€øÿÿÿÿ8êéòµù1
+Zkotlin:S6619)";Remove this useless elvis operation ?:, it always succeeds.(ÆºËõ8êéòµù1
+Zkotlin:S6619*";Remove this useless elvis operation ?:, it always succeeds.(ÔÇÆÙ8êéòµù1
+`kotlin:S6619("<Remove this useless null-safe access ?., it always succeeds.(œ±Š€øÿÿÿÿ8êéòµù1
+gkotlin:S1874#"#Deprecated code should not be used.(Šç‚[8Òç³±ù1J$acab05e6-e8f5-4f64-9b36-109e0f41c742
